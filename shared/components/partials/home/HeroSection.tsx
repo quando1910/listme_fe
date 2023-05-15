@@ -7,7 +7,7 @@ const HeroSection = () => {
     <div className="bg-gradient-primary pt-20 pb-10">
       <div className="container flex flex-col md:flex-row">
         <div className="w-full md:w-1/2">
-          <h1 className="text-header mb-4">ListMe - your gateway to Europe.</h1>
+          <h1 className="text-header text-ink-600 mb-4">ListMe - your gateway to Europe.</h1>
           <div className="text-sm font-semibold mb-6 leading-6">
             <p>
               Get your CV application out there and find the job of your dreams.
